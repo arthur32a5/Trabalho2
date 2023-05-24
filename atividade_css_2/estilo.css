@@ -1,0 +1,27 @@
+body{
+background-color:azure;
+margin-top: black;
+border-width: 10px;
+}
+h1, h2, p{
+    color: black;
+border-top: 8px;
+border-radius: 15px;
+border-color:black;
+border-style: solid;
+text-align: center;
+font: italic, bolder;
+    font-size: 20px;
+}
+h1, h2{
+    font-size: 25px;
+}
+img{
+ width: 38%;
+ margin: auto;
+ display: block;
+ border-radius: 10px;
+}
+ul{
+    font-size: 20px;
+}
